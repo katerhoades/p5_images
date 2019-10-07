@@ -6,10 +6,10 @@
 #### **Two Examples:**
 
 [**Click for Full Website**](https://carriehott.github.io/code-art/)
-<iframe src="https://carriehott.github.io/code-art/" width="600" height="300"></iframe>
+
 
 [**Click for Full Website**](https://carriehott.github.io/codeart/)
-<iframe src="https://carriehott.github.io/codeart/" width="600" height="300"></iframe>
+
 
 #### **On this page:**
 1. [One Image and PNGs](#one-image-and-pngs)
