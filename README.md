@@ -76,12 +76,7 @@
 
 ![Intro p5](images/CodeArt_WebImages.009.jpeg)
 
-#### **Related Pages:**
-* [Interactive Art Lecture](https://carriehott.github.io/SJSU-Art74-Sp2019/tutorials/Interactive_Art)
-* [p5 Drawing Basics Tutorial](https://carriehott.github.io/SJSU-Art74-Sp2019/tutorials/Intro_CodeArt/)
-* [p5- Complex Shapes and Color](https://carriehott.github.io/SJSU-Art74-Sp2019/tutorials/Intro_CodeArt_Color)
-* [p5- Variables and interactivity](https://carriehott.github.io/SJSU-Art74-Sp2019/tutorials/Intro_CodeArt_Interactivity)
-* [p5- Put on GitHub](https://carriehott.github.io/SJSU-Art74-Sp2019/tutorials/Intro_CodeArt_GitHub)
+
 
 #### **Other Resources:**
 
