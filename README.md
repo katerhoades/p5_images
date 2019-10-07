@@ -1,22 +1,7 @@
 # **INTRO TO P5 & CODING- ADDING IMAGES!**
 
-### **++[SJSU Art 74 Spring 2019](https://carriehott.github.io/SJSU-Art74-Sp2019/)++**
 
-[<Back to Tutorials](https://carriehott.github.io/SJSU-Art74-Sp2019/tutorials)
 
-#### **Related Pages:**
-* [Interactive Art Lecture](https://carriehott.github.io/SJSU-Art74-Sp2019/tutorials/Interactive_Art)
-* [p5 Drawing Basics Tutorial](https://carriehott.github.io/SJSU-Art74-Sp2019/tutorials/Intro_CodeArt/)
-* [p5- Complex Shapes and Color](https://carriehott.github.io/SJSU-Art74-Sp2019/tutorials/Intro_CodeArt_Color)
-* [p5- Variables and interactivity](https://carriehott.github.io/SJSU-Art74-Sp2019/tutorials/Intro_CodeArt_Interactivity)
-* [p5- Put on GitHub](https://carriehott.github.io/SJSU-Art74-Sp2019/tutorials/Intro_CodeArt_GitHub)
-
-#### **Other Resources:**
-
-* [p5js.org Image Reference](https://p5js.org/reference/#group-Image)
-* [Allison Parrish's great tutorial on adding media in p5](https://creative-coding.decontextualize.com/media/)
-* [Coding Train Video on Images-1](https://www.youtube.com/watch?v=rO6M5hj0V-o&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=33)
-* [Coding Train Video on Images-2](https://www.youtube.com/watch?v=i2C1hrJMwz0&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=34)
 
 #### **Two Examples:**
 
@@ -90,3 +75,17 @@
 ![Intro p5](images/CodeArt_WebImages.008.jpeg)
 
 ![Intro p5](images/CodeArt_WebImages.009.jpeg)
+
+#### **Related Pages:**
+* [Interactive Art Lecture](https://carriehott.github.io/SJSU-Art74-Sp2019/tutorials/Interactive_Art)
+* [p5 Drawing Basics Tutorial](https://carriehott.github.io/SJSU-Art74-Sp2019/tutorials/Intro_CodeArt/)
+* [p5- Complex Shapes and Color](https://carriehott.github.io/SJSU-Art74-Sp2019/tutorials/Intro_CodeArt_Color)
+* [p5- Variables and interactivity](https://carriehott.github.io/SJSU-Art74-Sp2019/tutorials/Intro_CodeArt_Interactivity)
+* [p5- Put on GitHub](https://carriehott.github.io/SJSU-Art74-Sp2019/tutorials/Intro_CodeArt_GitHub)
+
+#### **Other Resources:**
+
+* [p5js.org Image Reference](https://p5js.org/reference/#group-Image)
+* [Allison Parrish's great tutorial on adding media in p5](https://creative-coding.decontextualize.com/media/)
+* [Coding Train Video on Images-1](https://www.youtube.com/watch?v=rO6M5hj0V-o&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=33)
+* [Coding Train Video on Images-2](https://www.youtube.com/watch?v=i2C1hrJMwz0&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=34)
