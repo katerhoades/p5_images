@@ -76,8 +76,10 @@
 
 ![Intro p5](images/CodeArt_WebImages.009.jpeg)
 
-<br>
-# Next tutorial: [Adding p5 script to a website](https://github.com/katerhoades/BasicJavaPage/blob/master/README.md)<br><br>
+
+
+# Next tutorial: [Adding p5 script to a website](https://github.com/katerhoades/BasicJavaPage/blob/master/README.md)
+<br><br>
 
 
 #### **Other Resources:**
